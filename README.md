@@ -41,7 +41,7 @@ A high-performance, modern SaaS sales analytics dashboard built with **React**, 
    - Create or edit the `.env` file in the root directory.
    - Add your Gemini API key:
      ```env
-     VITE_GEMINI_API_KEY=your_actual_key_here
+      NEXT_PUBLIC_GEMINI_API_KEY=your_actual_key_here
      ```
 4. Build environment:
    ```bash
