@@ -56,8 +56,6 @@ npm run dev
 ```
 The dashboard will be available at `http://localhost:5173/`.
 
-## 📁 Data Structure
-
 ## 📁 Data Source (CSV & Database)
 
 The dashboard is configured to read data from a local CSV (`/data/sales_data.csv`) by default, but it is fully ready to connect to **Supabase** whenever you want to upgrade to a real database.
